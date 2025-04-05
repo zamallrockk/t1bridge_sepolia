@@ -31,7 +31,7 @@ t1bridge_sepolia_multi/
 1. Clone this repository
    ```bash
    git clone https://github.com/zamallrockk/t1bridge_sepolia_multi.git
-   cd t1bridge_sepolia
+   cd t1bridge_sepolia_multi
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
