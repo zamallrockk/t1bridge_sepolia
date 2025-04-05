@@ -1,4 +1,4 @@
-# 🪙 t1bridge-bot
+# 🪙 t1bridge-bot Multi 
 
 An automated bot to deposit ETH into the T1 Protocol bridge (devnet).
 
