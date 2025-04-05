@@ -15,7 +15,7 @@ An automated bot to deposit ETH into the T1 Protocol bridge (devnet).
 
 ## 📁 Project Structure
 ```
-t1bridge-bot/
+t1bridge_sepolia/
 ├── bridge_deposit.py        # Main bot script (looping, balance, tx hash, UI)
 ├── config.json              # Stores PRIVATE_KEY (excluded from Git)
 ├── requirements.txt         # Dependencies (web3, colorama, eth-account)
