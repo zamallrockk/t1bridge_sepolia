@@ -37,23 +37,24 @@ t1bridge_sepolia_multi/
    pip install -r requirements.txt
    ```
 3. Create a `config.json` file:
-   ```json
+   ```bash
    {
-    "ACCOUNTS": [
-     {
-       "PRIVATE_KEY": "your private key"
-     },
-     {
-       "PRIVATE_KEY": "your private key"
-     }
-    
-    ] 
-    }
+     "ACCOUNTS": [
+      {
+        "PRIVATE_KEY": "98fee870d37a3753752b42357b4ce1adac14fdefdd6ecd500d33731b1bb8068b"
+      },
+      {
+        "PRIVATE_KEY": "1b0d56281b62100aa0e2a09882fc004f57410785dd4f0c1d56889427c4e05167"
+      }
+      
+    ]
+   }
 
+   
    ```
 4. Run the bot:
    ```bash
-   python bridge_deposit_nulti.py
+   python bridge_multideposit.py
    ```
 
 ---
