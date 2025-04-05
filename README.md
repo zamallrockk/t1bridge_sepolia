@@ -41,10 +41,10 @@ t1bridge_sepolia_multi/
    {
      "ACCOUNTS": [
       {
-        "PRIVATE_KEY": "98fee870d37a3753752b42357b4ce1adac14fdefdd6ecd500d33731b1bb8068b"
+        "PRIVATE_KEY": "0x....."
       },
       {
-        "PRIVATE_KEY": "1b0d56281b62100aa0e2a09882fc004f57410785dd4f0c1d56889427c4e05167"
+        "PRIVATE_KEY": "0x....."
       }
       
     ]
