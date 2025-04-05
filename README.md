@@ -39,16 +39,16 @@ t1bridge_sepolia/
 3. Create a `config.json` file:
    ```json
    {
-  "ACCOUNTS": [
-    {
-      "PRIVATE_KEY": "your private key"
-    },
-    {
-      "PRIVATE_KEY": "your private key"
-    }
+    "ACCOUNTS": [
+     {
+       "PRIVATE_KEY": "your private key"
+     },
+     {
+       "PRIVATE_KEY": "your private key"
+     }
     
-  ]
-}
+    ] 
+    }
 
    ```
 4. Run the bot:
