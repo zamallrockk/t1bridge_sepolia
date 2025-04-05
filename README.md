@@ -29,6 +29,8 @@ t1bridge-bot/
 
 ## ⚙️ Usage
 1. Clone this repository
+   ```bash
+   git clone https://github.com/zamallrockk/t1bridge_sepolia.git
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
