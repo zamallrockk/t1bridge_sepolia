@@ -53,7 +53,7 @@ t1bridge_sepolia_multi/
    ```
 4. Run the bot:
    ```bash
-   python bridge_deposit.py
+   python bridge_deposit_nulti.py
    ```
 
 ---
