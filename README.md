@@ -9,7 +9,6 @@ An automated bot to deposit ETH into the T1 Protocol bridge (devnet).
 - Auto deposit to the bridge contract when balance meets the minimum
 - Logs TX hash for every transaction
 - Automatic loop with interval
-- Terminal UI with ASCII banner and color output using `colorama`
 - Safe exit with Ctrl+C handling
 
 ---
