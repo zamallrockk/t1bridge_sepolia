@@ -68,7 +68,6 @@ This bot is intended for educational and experimental use on the T1 Protocol tes
 [![Donate](https://img.shields.io/badge/Buy_Me_a_Coffee-ko--fi-FF5E5B?logo=ko-fi&logoColor=white&style=flat-square)](https://ko-fi.com/zamallrock)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![CI/CD](https://github.com/zamallrockk/soneiumswap-bot/actions/workflows/python-ci.yml/badge.svg)
 
 ## 🧠 Created by
 **zamallrock** – 2025
